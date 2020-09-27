@@ -1,2 +1,3 @@
 # beauty-components
-react components
+
+## 美业前端组件库
